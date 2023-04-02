@@ -1,0 +1,20 @@
+﻿  croutine.c
+  event_groups.c
+  list.c
+  heap_4.c
+  extint.c
+  port.c
+  queue.c
+  stream_buffer.c
+  tasks.c
+  timers.c
+  common_HWSIM.c
+  hwInt.c
+  HWS_conf.c
+  mxDisp7seg.c
+  mxDisp7seg._HWSIM.c
+  main.c
+  main_demo.c
+  Generating Code...
+D:\GOOGLE_DRIVE\Materijal za vezbe\autoelektronika\RTOS\WINDOWS RTOS\simulacija tajmera\2 verzija\HW_INT_Sim\main_demo.c(102): warning C4716: 'prvProcessExtSimInterrupt': must return a value
+  HW_INT_Sim.vcxproj -> D:\GOOGLE_DRIVE\Materijal za vezbe\autoelektronika\RTOS\WINDOWS RTOS\simulacija tajmera\2 verzija\HW_INT_Sim\Debug\HW_INT_Sim.exe

@@ -1,0 +1,2 @@
+D:\GOOGLE_DRIVE\Materijal za vezbe\autoelektronika\RTOS\WINDOWS RTOS\simulacija tajmera\2 verzija\HW_INT_Sim\Debug\HW_INT_Sim.exe
+D:\GOOGLE_DRIVE\Materijal za vezbe\autoelektronika\RTOS\WINDOWS RTOS\simulacija tajmera\2 verzija\HW_INT_Sim\Debug\HW_INT_Sim.pdb

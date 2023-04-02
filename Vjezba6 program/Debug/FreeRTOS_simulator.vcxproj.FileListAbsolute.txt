@@ -1,0 +1,7 @@
+D:\GOOGLE_DRIVE\Materijal za vezbe\autoelektronika\lekcije_za_sovu\vezba 11-FreeRTOS\HW_INT_Sim\Debug\FreeRTOS_simulator.exe
+D:\GOOGLE_DRIVE\Materijal za vezbe\autoelektronika\lekcije_za_sovu\vezba 11-FreeRTOS\HW_INT_Sim\Debug\FreeRTOS_simulator.pdb
+D:\GOOGLE_DRIVE\Materijal za vezbe\autoelektronika\lekcije_za_sovu\vezba 11-FreeRTOS\FreeRTOS_simulator\Debug\FreeRTOS_simulator.exe
+D:\GOOGLE_DRIVE\Materijal za vezbe\autoelektronika\lekcije_za_sovu\vezba 11-FreeRTOS\FreeRTOS_simulator\Debug\FreeRTOS_simulator.pdb
+D:\GOOGLE_DRIVE\Materijal za vezbe\autoelektronika\lekcije_za_sovu\vezba 11-FreeRTOS\5_VEZBA\Debug\FreeRTOS_simulator.exe
+D:\GOOGLE_DRIVE\Materijal za vezbe\autoelektronika\lekcije_za_sovu\vezba 11-FreeRTOS\5_VEZBA\Debug\FreeRTOS_simulator.pdb
+C:\Users\EliteBook\Desktop\Fakultet\Autolektronika\Vjezbe 2023\Vjezba 6\Vjezba6 program\Debug\FreeRTOS_simulator.exe
